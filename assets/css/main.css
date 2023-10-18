@@ -10,5 +10,5 @@ html {
 #img {
     background: url('./img/img.jpeg') top center / cover no-repeat;
     width: 100%;
-    padding-top: calc(100% + 80px);
+    padding-top: calc(100% + 120px);
 }
